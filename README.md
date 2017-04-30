@@ -1,5 +1,3 @@
-# globitek_w10
-
 # Project 10 - Fortress Globitek
 
 Time spent: **24** hours spent in total
